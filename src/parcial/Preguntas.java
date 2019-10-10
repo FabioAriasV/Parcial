@@ -38,12 +38,12 @@ public class Preguntas {
                    Parcial.objeto();
                    break;
                 case 6:
-                   Parcial.setNombre("Fabio Arias");
-                   JOptionPane.showMessageDialog(null, "fabio arias");
+                   Parcial.setNombre("");
+                   JOptionPane.showMessageDialog(null, "Fabio arias");
                    Parcial.getNombre();                                
                    break;
                 case 7:
-                   Parcial.setFecha("10/10/19");
+                   Parcial.setFecha("");
                    JOptionPane.showMessageDialog(null, "10/10/19");
                    Parcial.getFecha();                   
                    break; 
